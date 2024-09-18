@@ -48,12 +48,13 @@ _Welcome to "Communicate using Markdown"! :wave:_
 # This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
+### THIS IS AN H3 HEADER
 
 ###### This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
+# 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
 1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
 1. Click **Create pull request**.
@@ -66,6 +67,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
+I made the step 1 an h1 header to try it out
 
 <!--
   <<< Author notes: Footer >>>
